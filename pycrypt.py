@@ -54,7 +54,7 @@ banner = Center.XCenter(r"""
 *                                                                   *
 *           Python Crypter To Make Your Py Files UnDetectable       *
 *                                                                   *
-*                    Coded By: Machine1337                          *
+*                    Coded By: Machine1336                          *
 *********************************************************************
 """)
 
